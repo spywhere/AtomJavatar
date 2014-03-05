@@ -1,4 +1,7 @@
-AtomJavatar
-===========
+## AtomJavatar
 
-Java Development Plugin for Atom
+### Status: Planning...
+
+A Atom Plugin for Java Development
+
+====
